@@ -12,7 +12,17 @@ nav{
     background-color: rgb(218, 165, 32);
     min-width: 62.5%;
     margin: 13px;
-
+}
+#logo{
+    width: 17%;
+}
+#login{
+    width: 17%;
+    text-align: right;
+}
+#link{
+    width: 66%;
+    text-align: center;
 }
 .bloccoUno{
     display: flex;
@@ -40,6 +50,7 @@ nav{
     min-width: 47.5%;
     margin: 44px;
     justify-content: center;
+    border-radius: 5px;
 }
 .bloccom1{
     background-color: white;
@@ -115,4 +126,9 @@ hr{
     margin-top: 25px;
     min-width: 62.5%;
     min-height: 66px;
+    align-items: center;
+}
+#logo2{
+    background-color: #ffb6c1;
+    padding: 5px;
 }
