@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: rgb(173, 216, 230);
+    width: 100%;
+    min-height: 484px;
+}
+nav{
+    background-color: rgb(218, 165, 32);
+    min-width: 62.5%;
+    margin: 13px;
+
+}
+.bloccoUno{
+    display: flex;
+    justify-content: center;
+
+}
+.flexContainerUno{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+
+}
+.bloccoDue{
+    background-color: rgb(0, 0, 139);
+    min-height: 418px;
+    display: flex;
+    justify-content: center;
+}
+.flexContainerDue{
+    background-color: rgb(238, 130, 238);
+    display: flex;
+    align-items: center;
+    min-width: 47.5%;
+    margin: 44px;
+    justify-content: center;
+}
+.bloccom1{
+    background-color: white;
+    width: 100%;
+    min-height: 504px;
+    display: flex;
+    justify-content: center;
+}
+.p1{
+    background-color: rgb(30, 144, 255);
+    min-width: 42%;
+    min-height: 415px;
+    margin: 45px 0px;
+}
+.p2{
+    background-color: rgb(255, 192, 203);
+    min-width: 21%;
+    min-height: 415px;
+    margin: 45px 0px;
+}
+.bloccom2{
+    background-color: rgb(211, 211, 211);
+    width: 100%;
+    min-height: 504px;
+    display: flex;
+    justify-content: center;
+}
+.bloccom3{
+    background-color: rgb(211, 211, 211);
+    width: 100%;
+    min-height: 835px;
+    display: flex;
+    justify-content: center;
+}
+.p3{
+    background-color: rgb(34, 139, 34);
+    min-width: 62.5%;
+    min-height: 750px;
+    margin: 45px 0px;
+}
+.bloccom4{
+    background-color: rgb(35, 39, 42);
+    width: 100%;
+    min-height: 525px;
+    display: flex;
+    justify-content: center;
+}
+.p4{
+    background-color: rgb(240, 128, 128);
+    min-width: calc(62.5% /3);
+    min-height: 480px;
+    margin: 12px 0px 35px 0px;
+}
+.p5{
+    background-color: rgb(32, 178, 170);
+    min-width: calc(62.5% /6);
+    min-height: 480px;
+    margin: 12px 0px 35px 0px;
+}
+hr{
+    color: rgb(211, 211, 211);
+}
+.bloccom5{
+    background-color: rgb(35, 39, 42);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.p6{
+    background-color: rgb(127, 255, 212);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    min-width: 62.5%;
+    min-height: 66px;
+}
