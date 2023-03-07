@@ -101,13 +101,13 @@ nav{
 .p4{
     background-color: rgb(240, 128, 128);
     min-width: calc(62.5% /3);
-    min-height: 480px;
-    margin: 12px 0px 35px 0px;
 }
 .p5{
     background-color: rgb(32, 178, 170);
     min-width: calc(62.5% /6);
-    min-height: 480px;
+}
+.p45{
+        min-height: 480px;
     margin: 12px 0px 35px 0px;
 }
 hr{
